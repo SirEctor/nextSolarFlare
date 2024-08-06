@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nextsolarflare/static/css/main.fc8610a2.css",
+    "main.js": "/nextsolarflare/static/js/main.ae18e1bc.js",
+    "static/js/453.d55bbd66.chunk.js": "/nextsolarflare/static/js/453.d55bbd66.chunk.js",
+    "index.html": "/nextsolarflare/index.html",
+    "main.fc8610a2.css.map": "/nextsolarflare/static/css/main.fc8610a2.css.map",
+    "main.ae18e1bc.js.map": "/nextsolarflare/static/js/main.ae18e1bc.js.map",
+    "453.d55bbd66.chunk.js.map": "/nextsolarflare/static/js/453.d55bbd66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc8610a2.css",
+    "static/js/main.ae18e1bc.js"
+  ]
+}
