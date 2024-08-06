@@ -1,3 +1,8 @@
+# nextSolarFlare
+
+Details how many days till the next day of largest predicted Kp Indices based on the NOAA's 27-day Space Weather Outlook Table for the next upcoming 27 days.
+Read from https://services.swpc.noaa.gov/text/27-day-outlook.txt, inspired by R;N.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
